@@ -1,0 +1,4 @@
+﻿Nom,Quantité,Composant
+"U1",1," Arduino Uno R3"
+"DIST1",1," Capteur de distance à ultrasons (4 broches)"
+"PIEZO1",1," Élément piézoélectrique"
