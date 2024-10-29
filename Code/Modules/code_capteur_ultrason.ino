@@ -1,3 +1,7 @@
+// ceci est le code arduino pour le capteur ultrason
+
+
+
 int ultrason = 0; // Déclaration de la variable 'ultrason' qui stockera la distance mesurée par le capteur ultrasonique
 
 // Fonction pour lire la distance mesurée par le capteur ultrasonique
