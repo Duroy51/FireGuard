@@ -28,7 +28,7 @@ Les quatre moteurs sont contrôlés via deux drivers L298N, chacun contrôlant l
 ## Simulation Tinkercad
 Pour visualiser et tester le montage complet du robot avec capteur ultrason et drivers moteurs :
 
-[Accéder à la simulation Tinkercad](https://www.tinkercad.com/things/6G6PAu9rwcS/editel?lessonid=EFU6PEHIXGFUR1J&projectid=OGK4Q7VL20FZRV9&collectionid=undefined&title=Editing%20Components&sharecode=xIN4BPeDCIxUulXke1eNfRdvjO6b3aZkX0cRPFSjgQo)
+[Accéder à la simulation Tinkercad](https://www.tinkercad.com/things/35J2NaLhFq2-copy-of-autonomous-car/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=cEAa-bCEAHMlHuZ4oM9_zBbikuOrcH8unHb_AfjSHd8)
 
 ---
 
